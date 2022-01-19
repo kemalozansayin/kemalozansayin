@@ -1,4 +1,4 @@
-🚧 ### This place still is under construction.
+### 🚧 This place is still under construction.
 
 <div width="100%" align="center">
   <h3 align=left>Welcome! Glad to see you! You are at Kemal Ozan's playground.</h3>
