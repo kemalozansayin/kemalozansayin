@@ -14,7 +14,7 @@ Trying to be a full-stack developer. Interested in AI and ML.
 #### **Profile Stats**
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kemalozansayin.kemalozansayin">
 
-### **Come find me**
+## **Come find me**
 <a href="https://www.hackerrank.com/kemalozansayin" target="_blank"><img src="https://raw.githubusercontent.com/kemalozansayin/kemalozansayin/master/images/hackerrank.png" height="30px"/></a>
 <a href="https://www.linkedin.com/in/kemalozansayin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 <a href="https://open.spotify.com/user/kemalozansayin?si=25b80a035ac74a6d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="30px"/></a>
