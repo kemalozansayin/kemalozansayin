@@ -1,40 +1,54 @@
-### 🚧 This place is still under construction.
+<h2 align="center"><strong>Welcome! Glad to See You</strong></h2>
+<h1 align="center"><strong>Here is Ozan's Playground</strong></h1>
 
-<div width="100%" align="center">
-  <h3 align=left>Welcome! Glad to see you! You are at Kemal Ozan's playground.</h3>
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kemalozansayin.kemalozansayin">
-</div>
+### **Who is this newbie?**
 
-#### ~ ***WHOIS***
+I'm a 💻Front-End developer @ Semtrio. Born & raised in Istanbul, graduate from Econometrics and Web Design & Coding.<br/>🚭Non-smoker
 
-📍  Istanbul 
+Trying to be a full-stack developer. Interested in AI and ML.
 
-🖥️ Trying to be a Full-Stack developer. 
+Hobbies
+- Chess
+- Camping
+- Trivias
 
-🖱️  Front-End developer @ *Semtrio*
+#### **Profile Stats**
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kemalozansayin.kemalozansayin">
 
-🚭 Non-smoker 
+### **Come find me**
+<a href="https://www.hackerrank.com/kemalozansayin" target="_blank"><img src="https://raw.githubusercontent.com/kemalozansayin/kemalozansayin/master/images/hackerrank.png" height="30px"/></a>
+<a href="https://www.linkedin.com/in/kemalozansayin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+<a href="https://open.spotify.com/user/kemalozansayin?si=25b80a035ac74a6d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="30px"/></a>
 
-🧰 NOT an Engineer.
+### **Tech-Stack**
+#### ***Languages & Frameworks***
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="30px" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30px" />
+<img src="https://raw.githubusercontent.com/kemalozansayin/kemalozansayin/master/images/nuxt.svg" alt="Nuxt" height="30px" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30px" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30px" />
 
-#### ~ ***TECH STACK***
-+ Vue.js
-+ React.js
-+ Nuxt.js
-+ Django
+#### ***DB & Host***
+<img src="https://raw.githubusercontent.com/kemalozansayin/kemalozansayin/master/images/vercel.png" alt="Vercel" height="30px" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30px" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="30px" />
 
+#### ***Design & Systems***
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="30px" />
+<img src="https://raw.githubusercontent.com/kemalozansayin/kemalozansayin/master/images/figma.svg" alt="Figma" height="30px"/>
+<img src="https://raw.githubusercontent.com/kemalozansayin/kemalozansayin/master/images/sass.png" alt="Figma" height="30px"/>
 
-<!--
-**kemalozansayin/kemalozansayin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ***Still on Progress***
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30px" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="30px" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30px" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30px" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30px" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Git Stats**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalozansayin&layout=compact)](https://github.com/kemalozansayin)
