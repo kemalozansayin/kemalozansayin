@@ -1,13 +1,12 @@
-<h3 align="center"><strong>Welcome! Glad to See You</strong></h2>
+<h3 align="center"><strong>Welcome! Glad to See You</strong></h2><br/>
 <h1 align="center"><strong>Here is Ozan's Playground</strong></h1>
 
-### **Who is this newbie?**
-
+## **Who is this newbie?**
 I'm a 💻Front-End developer @ Semtrio. Born & raised in Istanbul, graduate from Econometrics and Web Design & Coding.<br/>🚭Non-smoker
 
 Trying to be a full-stack developer. Interested in AI and ML.
 
-Hobbies
+#### **Hobbies**
 - Chess
 - Camping
 - Trivias
@@ -20,7 +19,7 @@ Hobbies
 <a href="https://www.linkedin.com/in/kemalozansayin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 <a href="https://open.spotify.com/user/kemalozansayin?si=25b80a035ac74a6d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="30px"/></a>
 
-### **Tech-Stack**
+## **Tech-Stack**
 #### ***Languages & Frameworks***
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="30px" />
@@ -58,5 +57,5 @@ Hobbies
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px" />
 </div>
 
-### **Git Stats**
+## **Git Stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalozansayin&layout=compact)](https://github.com/kemalozansayin)
