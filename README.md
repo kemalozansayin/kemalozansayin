@@ -4,6 +4,8 @@
 ## **Who is this newbie?**
 I'm a 💻Front-End developer @ Semtrio. Born & raised in Istanbul, graduate from Econometrics and Web Design & Coding.<br/>🚭Non-smoker
 
+After 5 years stock exchange research experiment, I change my way to my childhood dreams and worked as support specialist, product owner and FE Developer
+
 Trying to be a full-stack developer. Interested in AI and ML.
 
 #### **Hobbies**
