@@ -25,7 +25,7 @@ Trying to be a full-stack developer. Interested in AI and ML.
 #### ***Languages & Frameworks***
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="30px" />
-  <img src="https://img.shields.io/badge/Typescript-gray?style=flat" alt="Typescript" />
+  <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=html5&logoColor=white alt="Typescript" height="30px" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30px" />
