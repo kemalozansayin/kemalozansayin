@@ -3,7 +3,9 @@
 
 ## **Who am I?**
 
-I'm a 💻Front-End developer @[SampaCamp](https://www.sampa.com/en/what-we-do/camp) as a professional *Full-Stack developer* in individual projects. Born & raised in Istanbul, graduate from Econometrics and Web Design & Coding. Still studying on MIS (Management Information Systems) in an open-faculty programme in Istanbul University
+I'm a 💻Front-End developer @[SampaCamp](https://www.sampa.com/en/what-we-do/camp) as a professional *Full-Stack developer* in individual projects. 
+
+Born & raised in Istanbul, graduate from Econometrics and Web Design & Coding. Still studying on MIS (Management Information Systems) in an open-faculty programme in Istanbul University
 
 After 5 years stock exchange research experiment, I change my way to my childhood dreams and worked as support specialist, product owner and FE Developer. Trying to be a professional full-stack developer. Interested in AI and ML.
 
