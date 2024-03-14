@@ -32,7 +32,7 @@ Trying to be a full-stack developer. Interested in AI and ML.
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30px" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30px" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30px" />
-  <img src="https://img.shields.io/badge/NuxtJS-00dc82??style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82 height="30px" />
+  <img src="https://img.shields.io/badge/NuxtJS-00dc82??style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="30px" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30px" />
 </div>
