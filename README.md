@@ -7,6 +7,7 @@
 - 🚭Non-smoker.
 - 🎓 Econometrics (Marmara Uni.) - Web Design & Coding (Anadolu Uni., AOF)
 - 👨🏻‍🏫 MIS (Management Information Systems) in an open-faculty programme (AUZEF) in Istanbul University
+- 🪖 Veteran since 2011
 
 
 - 💻Front-End developer @[SampaCamp](https://www.sampa.com/en/what-we-do/camp) as a professional. (Full Stack for his individuals.)
