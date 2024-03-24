@@ -3,19 +3,21 @@
 
 ## **Who am I?**
 
-I'm a 💻Front-End developer @[SampaCamp](https://www.sampa.com/en/what-we-do/camp) as a professional *Full-Stack developer* in individual projects. 
+- 👼 & 🏠 Istanbul.
+- 🚭Non-smoker.
+- 🎓 Econometrics (Marmara Uni.) - Web Design & Coding (Anadolu Uni., AOF)
+- 👨🏻‍🏫 MIS (Management Information Systems) in an open-faculty programme (AUZEF) in Istanbul University
 
-Born & raised in Istanbul, graduate from Econometrics and Web Design & Coding. Still studying on MIS (Management Information Systems) in an open-faculty programme in Istanbul University
 
-After 5 years stock exchange research experiment, I change my way to my childhood dreams and worked as support specialist, product owner and FE Developer. Trying to be a professional full-stack developer. Interested in AI and ML.
-
-🚭Non-smoker
+- 💻Front-End developer @[SampaCamp](https://www.sampa.com/en/what-we-do/camp) as a professional. (Full Stack for his individuals.)
+- 📈📉 Ex-Investment Advidor and stock researcher.
+- 🧑🏽‍💻 Interested in AI & ML.
 
 #### **Hobbies**
-- Chess
-- Camping
-- Festivals
-- Trivias
+- ♟️ Chess
+- 🏕️ Camping
+- 🏕️ Festivals
+- 🧩 Trivias & Puzzles
 
 #### **Profile Stats**
 ![Visitors Badge](https://komarev.com/ghpvc/?username=kemalozansayin&label=Visitors&style=for-the-badge&color=6cb288)
