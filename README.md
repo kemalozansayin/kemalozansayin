@@ -16,9 +16,11 @@
   
 #### **Hobbies**
 - ♟️ Chess
+- 🏀 Basketball
 - 🏕️ Camping
 - 🏕️ Festivals
 - 🧩 Trivias & Puzzles
+- 🎫 Stadiums
 
 #### **Profile Stats**
 ![Visitors Badge](https://komarev.com/ghpvc/?username=kemalozansayin&label=Visitors&style=for-the-badge&color=6cb288)
