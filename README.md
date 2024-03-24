@@ -1,4 +1,4 @@
-<h3 align="center"><strong>Welcome! Glad to See You</strong></h3>
+<h3 align="center"><strong>👋 Welcome! Glad to See You</strong></h3>
 <h1 align="center"><strong>Here is Ozan's Playground</strong></h1>
 
 ## **Who am I?**
