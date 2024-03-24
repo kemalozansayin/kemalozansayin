@@ -18,7 +18,8 @@ After 5 years stock exchange research experiment, I change my way to my childhoo
 - Trivias
 
 #### **Profile Stats**
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kemalozansayin.kemalozansayin">
+![Visitors Badge](https://komarev.com/ghpvc/?username=kemalozansayin&label=Visitors&style=for-the-badge&color=6cb288)
+[![GitHub Badge](https://img.shields.io/github/followers/kemalozansayin?label=follow&style=for-the-badge&color=6cb288)](https://github.com/TGlide)
 
 ## **Come find me**
 <a href="https://www.hackerrank.com/kemalozansayin" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30px"/></a>
