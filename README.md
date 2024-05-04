@@ -22,6 +22,11 @@
 - 🧩 Trivias & Puzzles
 - 🎫 Stadiums
 
+#### **What's New**
+
+- Learning Flutter to improve skills on Mobile Development.
+- Learning Onion and Microservices architecture with improving myself on .NET 
+
 #### **Profile Stats**
 ![Visitors Badge](https://komarev.com/ghpvc/?username=kemalozansayin&label=Visitors&style=for-the-badge&color=6cb288)
 [![GitHub Badge](https://img.shields.io/github/followers/kemalozansayin?label=follow&style=for-the-badge&color=6cb288)](https://github.com/TGlide)
