@@ -25,7 +25,7 @@
 #### **What's New**
 
 - Learning Flutter to improve skills on Mobile Development.
-- Learning Onion and Microservices architecture with improving myself on .NET 
+- Learning Onion & Microservices architecture and Blazor framework to improve my skills on .NET
 
 #### **Profile Stats**
 ![Visitors Badge](https://komarev.com/ghpvc/?username=kemalozansayin&label=Visitors&style=for-the-badge&color=6cb288)
