@@ -6,7 +6,7 @@
 - 📈📉 Ex-Investment Advisor and stock researcher.
 - 🧑🏽‍💻 Interested in AI & ML.
 
-  <hr />
+  ------------------------------------
 
 - 👼 & 🏠 Istanbul.
 - 🚭Non-smoker.
