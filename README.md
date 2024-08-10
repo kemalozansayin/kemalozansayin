@@ -6,7 +6,7 @@
 - 📈📉 Ex-Investment Advisor and stock researcher.
 - 🧑🏽‍💻 Interested in AI & ML.
 
-  <br />
+  <hr />
 
 - 👼 & 🏠 Istanbul.
 - 🚭Non-smoker.
@@ -24,7 +24,6 @@
 
 #### **What's New**
 
-- Learning Flutter to improve skills on Mobile Development.
 - Learning Onion & Microservices architecture and Blazor framework to improve my skills on .NET
 
 #### **Profile Stats**
