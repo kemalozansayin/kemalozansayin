@@ -20,7 +20,7 @@
 - 🏕️ Camping
 - 🏕️ Festivals
 - 🧩 Trivias & Puzzles
-- 🎫 Stadiums
+- 🎫 Football Games & Concerts
 
 #### **What's New**
 
