@@ -55,6 +55,7 @@
 <div>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="30px" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="30px" />
+  <img src="https://img.shields.io/badge/webpack-%238ED6FB.svg?style=for-the-badge&logo=webpack&logoColor=1b78c0&color=8ed6fc" height="30px" />
 </div>
 
 #### ***DB & Host***
