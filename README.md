@@ -2,7 +2,7 @@
 <h1 align="center"><strong>Here is Ozan's Playground</strong></h1>
 
 ## **Who am I?**
-- 💻Front-End developer @[SampaCamp](https://www.sampa.com/en/what-we-do/camp) as a professional. (Full Stack for his individuals.)
+- 💻Front-End developer @[Insider](https://useinsider.com/) as a professional. (Full Stack for his individuals.)
 - 📈📉 Ex-Investment Advisor and stock researcher.
 - 🧑🏽‍💻 Interested in AI & ML.
 
